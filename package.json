@@ -1,0 +1,26 @@
+{
+  "name": "microlib-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/modal.microlib.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "jshint ./src/modal.microlib.js",
+    "minify": "uglifyjs ./src/modal.microlib.js --source-map ./dist/modal.microlib.map.js -o ./dist/modal.microlib.min.js"
+  },
+  "keywords": [
+    "modals",
+    "html",
+    "micro",
+    "libaray",
+    "lightweight"
+  ],
+  "author": "Thomas Erbe <vizuaalog@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "uglify-js": "^2.6.1"
+  }
+}

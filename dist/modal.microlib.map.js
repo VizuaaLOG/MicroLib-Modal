@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/modal.microlib.js"],"names":["w","d","Micro","window","document"],"mappings":"CAQC,SAASA,EAAGC,GACT,YAEA,IAAIC,OAAQF,EAAEE,YAGhBC,OAAQC","file":"./dist/modal.microlib.min.js"}
